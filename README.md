@@ -1,3 +1,5 @@
 Primeiro commit
 
-Precisamos de um css
+Precisamos de um css.
+
+Adicionamos o css.
