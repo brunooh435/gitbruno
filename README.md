@@ -1,6 +1,1 @@
-Primeiro commit
-
-Precisamos de um css.
-
-Adicionamos o css.
-321
+Primeiro sistema no GIT. (alterado e remasterizado)
