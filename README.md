@@ -1,1 +1,1 @@
-Primeiro sistema no GIT. (alterado e remasterizado)
+Primeiro sistema no GIT. (atualizado e remasterizado com script)
